@@ -1,0 +1,3 @@
+link to article -> https://towardsdatascience.com/learning-to-rank-with-python-scikit-learn-327a5cfd81f
+link to github -> https://github.com/mottalrd/learning-to-rank/tree/master/experiments
+

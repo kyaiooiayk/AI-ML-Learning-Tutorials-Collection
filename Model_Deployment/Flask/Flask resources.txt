@@ -1,0 +1,6 @@
+List of resources to learn Flask:
+
+1) [list of resources] https://www.fullstackpython.com/flask.html
+2) [article + code] https://towardsdatascience.com/model-deployment-using-flask-c5dcbb6499c9
+3) [article + code + flask + rect] https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
+4) 
