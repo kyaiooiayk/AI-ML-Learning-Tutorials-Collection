@@ -23,6 +23,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [AB Testing](https://github.com/kyaiooiayk/AI_learning/tree/main/AB_Testing)
 *List of templates focused on AB testing*
 
+### [Adversarial](https://github.com/kyaiooiayk/AI_learning/tree/main/Adversarial)
+*List of templates focused on Adversarial*
+
 ### [AI Basics](https://github.com/kyaiooiayk/AI_learning/tree/main/AI_Basics)
 *List of notebooks focused AI/ML/DL basics*
 
@@ -46,6 +49,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [Classification](https://github.com/kyaiooiayk/AI_learning/tree/main/Classification)
 *List of notebooks and templates focused on classification*
+
+## [Computer Vision](https://github.com/kyaiooiayk/AI_learning/tree/main/CV_Computer_Vision])
+*List of notebooks and templates focused on Computer Vision*
 
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/CyberSecurity)
 *List of notebooks templates focused on cybersecurity*
