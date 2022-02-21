@@ -22,7 +22,7 @@ List the number of different (distinct) customer countries:
     SELECT COUNT(DISTINCT Country) FROM Customers;
 |
 #---------------
-Select all the customers from the country "Mexico", in the "Customers" table:
+Select all (*) the customers from the country "Mexico", in the "Customers" table:
     SELECT * FROM Customers
     WHERE Country='Mexico'; 
 |
@@ -65,6 +65,11 @@ Select all customers from the "Customers" table, sorted ascending by the "Countr
 Insert a new record in the "Customers" table:
     INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
     VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+    
+Alternative you can see this syntax but it is not suggested
+    INSERT INTO Customers
+    VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+
 |
 #---------------
 Insert a new record, but only insert data in the "CustomerName", "City", and "Country" columns (CustomerID will be updated automatically)
@@ -114,6 +119,16 @@ Suppose you have to specify the number of records to return, because returning a
 SQL TOP, LIMIT, FETCH FIRST or ROWNUM Clause
 see this link as every SQL language differes in the way this is implemented
 https://www.w3schools.com/sql/sql_top.asp
+
+Select all the records in the "Customers" table but limit the output to 5 records
+
+Syntax for SQLite
+    SELECT * FROM Customers LIMIT 5;
+Syntax for Oracle
+    SELECT * FROM Customers WHERE ROWNUM <=5;
+Syntax for DB2
+    SELECT * FROM Customers FETCH FIRST 5 ROWS ONLY;
+
 |
 #---------------
 Find the price of the cheapest product:

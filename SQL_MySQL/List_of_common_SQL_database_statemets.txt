@@ -39,3 +39,15 @@ To add a column in a table, use the following syntax:
 The following SQL adds an "Email" column to the "Customers" table:
     ALTER TABLE Customers
     ADD Email varchar(255);
+|
+#---------------    
+The following example creates a table called "Persons" that contains : PersonID, LastName, FirstName, Address, and City. where the last columns will accept a NULL
+value which means no data is stored for those entries
+    CREATE TABLE Persons (
+        PersonID int PRIMARY KEY,
+        LastName varchar(255) NOT NULL,
+        FirstName varchar(255) NOT NULL,
+        Address varchar(255) NULL,
+        City varchar(255) NULL
+    );    
+    
