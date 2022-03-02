@@ -104,16 +104,16 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Manifold learning](https://github.com/kyaiooiayk/AI_learning/tree/main/Manifold_Learning)
 *List of notebooks focused on manifold learning*
 
-### [Methods Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/Methods_Selection)
+### [Models Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/Methods_Selection)
 *List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different version of the same method. For models selection see Hyperparameters_Tuning*
 
-### [Model Deployment](https://github.com/kyaiooiayk/AI_learning/tree/main/Model_Deployment)
+### [Models Deployment](https://github.com/kyaiooiayk/AI_learning/tree/main/Model_Deployment)
 *List of scripts and notebooks focused on model deployment: pipelines, Flask, Streamlit**
 
-### [Model Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/Model_Diagnostic)
+### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/Model_Diagnostic)
 *List of notebooks/templated focused on model diagnostic. One example of this is learning curves.*
 
-### [Model Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/Models_Validation)
+### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/Models_Validation)
 *List of notebooks/templates focused on model validation. Essentially cross-validation.*
 
 ### [NLP](https://github.com/kyaiooiayk/AI_learning/tree/main/NLP)
