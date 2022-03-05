@@ -74,6 +74,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Ensembles](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Ensembles)
 *List of templates and notebooks focused on ensemble methods*
 
+### [ETL (Extract Transform Load) Pipelines](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ETL_Pipelines)
+*List of templates and notebooks focused on ETL pipelines*
+
 ### [Explainable AI (xAI)](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/Explainable%20AI%20(xAI)%20)
 *List of notebooks focused on Explainable AI (xAI)*
 
@@ -104,13 +107,13 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Manifold learning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Manifold_Learning)
 *List of notebooks focused on manifold learning*
 
-### [Models Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Methods_Selection)
+### [Models Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Selection)
 *List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different version of the same method. For models selection see Hyperparameters_Tuning*
 
-### [Models Deployment](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Model_Deployment)
+### [Models Deployment](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Deployment)
 *List of scripts and notebooks focused on model deployment: pipelines, Flask, Streamlit**
 
-### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Model_Diagnostic)
+### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Diagnostic)
 *List of notebooks/templated focused on model diagnostic. One example of this is learning curves.*
 
 ### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Validation)
