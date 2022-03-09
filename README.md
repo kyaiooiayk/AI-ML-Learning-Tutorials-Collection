@@ -32,6 +32,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Artifical Neural Networks](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ANNs_Artifical_Neural_Networks)
 *List of templates focused on ANNs 9Artifical Neural Networks)*
 
+### [Audio & Sound](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Audio_and_Sound)
+*List of templates focused on audio & sound*
+
 ### [Autoencoder](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Autoencoder-Encoder-Decoder)
 *List of templates focused on autoencoder*
 
@@ -50,7 +53,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Classification](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Classification)
 *List of notebooks and templates focused on classification*
 
-## [Computer Vision](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CV_Computer_Vision])
+### [Computer Vision](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CV_Computer_Vision)
 *List of notebooks and templates focused on Computer Vision*
 
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CyberSecurity)
@@ -109,9 +112,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [Models Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Selection)
 *List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different version of the same method. For models selection see Hyperparameters_Tuning*
-
-### [Models Deployment](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Deployment)
-*List of scripts and notebooks focused on model deployment: pipelines, Flask, Streamlit**
 
 ### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Diagnostic)
 *List of notebooks/templated focused on model diagnostic. One example of this is learning curves.*
