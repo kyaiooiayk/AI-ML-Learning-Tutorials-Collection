@@ -131,7 +131,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [PyTorch](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/PyTorch)
 *List of templates focused on PyTorch deep learning framework*
 
-### [Reading_data_in_different_formats](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Reading_data_in_different_formats)
+### [Reading data in different formats](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Reading_data_in_different_formats)
 *List of scripts and notebooks focused on reading data provided in different formats*
 
 ### [Recommendation Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommendation_System)
