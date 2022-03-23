@@ -59,9 +59,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CyberSecurity)
 *List of notebooks templates focused on cybersecurity*
 
-### [Dashboard](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Dashboard)
-*List of notebooks and templates focused on how to create a dashboard*
-
 ### [Decision Trees](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Decision_Trees)
 *List of notebooks and templates focused on decision trees*
 
