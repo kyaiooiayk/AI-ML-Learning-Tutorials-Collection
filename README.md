@@ -131,7 +131,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Reading data in different formats](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Reading_data_in_different_formats)
 *List of scripts and notebooks focused on reading data provided in different formats*
 
-### [Recommendation Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommendation_System)
+### [Recommender Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommender_System)
 *List of scripts and notebooks focused on recommendation systems*
 
 ### [Regression](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Regression)
