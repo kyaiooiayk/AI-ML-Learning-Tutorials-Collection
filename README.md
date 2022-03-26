@@ -132,7 +132,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 *List of scripts and notebooks focused on reading data provided in different formats*
 
 ### [Recommender Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommender_System)
-*List of scripts and notebooks focused on recommendation systems*
+*List of scripts and notebooks focused on recommender systems*
 
 ### [Regression](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Regression)
 *List of notebooks focused on regression*
