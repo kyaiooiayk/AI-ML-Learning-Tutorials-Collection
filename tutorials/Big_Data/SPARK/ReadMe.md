@@ -43,8 +43,8 @@ cd spark
 ./bin/spark-shell
 ```
 - If you are using jupyter notebook:
-- Install java 
-- Then `pip install pyspark`
+    - Install java
+    - Then `pip install pyspark`
 ***
 
 ## References
