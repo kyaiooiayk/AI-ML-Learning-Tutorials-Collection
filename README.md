@@ -18,7 +18,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 - One where all the markdown comments are rendered in coloured. These do not have a preceding underscore. 
 
 ## What is available?
-*Listed by alphabetical order. Total number of notebook templates (not including .py files): `1,066`*
+*Listed by alphabetical order. Total number of notebook templates (not including .py files): `1,131`*
 
 ### [AB Testing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/AB_Testing)
 *List of templates focused on AB testing*
@@ -68,8 +68,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Donts](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Donts)
 *List of templates and notebooks focused on dos and don'ts in data science*
 
-### [E2E Projects](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/E2E_Projects)
-*List of templates focused on End-2-End project*
 
 ### [Ensembles](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Ensembles)
 *List of templates and notebooks focused on ensemble methods*
@@ -107,8 +105,8 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Manifold learning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Manifold_Learning)
 *List of notebooks focused on manifold learning*
 
-### [Models Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Selection)
-*List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different version of the same method. For models selection see Hyperparameters_Tuning*
+### [Methods Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Methods_Selection)
+*List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different versions of the same method. For models selection see [Hyperparameters Tuning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Hyperparameters_Tuning) and [Feature Selection Importance and Engineering](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Feature_Selection_Importance_Engineering)*
 
 ### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Diagnostic)
 *List of notebooks/templated focused on model diagnostic. One example of this is learning curves.*
