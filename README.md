@@ -29,7 +29,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [AI Basics](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/AI_Basics)
 *List of notebooks focused AI/ML/DL basics*
 
-### [Artifical Neural Networks](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ANNs_Artifical_Neural_Networks)
+### [Artifical Neural Networks](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/ANNs_Artificlal_Neural_Networks)
 *List of templates focused on ANNs 9Artifical Neural Networks)*
 
 ### [Audio & Sound](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Audio_and_Sound)
