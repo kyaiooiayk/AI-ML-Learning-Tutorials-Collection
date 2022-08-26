@@ -114,7 +114,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Validation)
 *List of notebooks/templates focused on model validation. Essentially cross-validation.*
 
-### [NLP](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/NLP)
+### [NLP](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/NLP_Natural_Language_Processing)
 *List of notebooks focused on NLP*
 
 ### [Pandas](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Pandas)
