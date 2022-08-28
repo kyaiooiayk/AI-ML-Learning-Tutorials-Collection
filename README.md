@@ -117,9 +117,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [NLP](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/NLP_Natural_Language_Processing)
 *List of notebooks focused on NLP*
 
-### [Pandas](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Pandas)
-*List of templates focused on pandas*
-
 ### [Preprocessing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Preprocessing)
 *List of scripts and notebooks focused on preprocessing*
 
