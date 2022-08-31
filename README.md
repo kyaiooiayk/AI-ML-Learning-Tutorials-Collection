@@ -138,9 +138,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Scikit-learn](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/scikit-learn)
 *List of scripts and notebooks focused on Scikit-learn*
 
-### [Statistics & Probabilities](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/Statistics_and_Probabilities)
-*List of templates focused on statistics and probabilities for data scientists*
-
 ### [SQL and MySQL](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/SQL_and_MySQL)
 *List of notebooks focused on SQL and MySQL*
 
