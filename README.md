@@ -68,7 +68,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Donts](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Donts)
 *List of templates and notebooks focused on dos and don'ts in data science*
 
-
 ### [Ensembles](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Ensembles)
 *List of templates and notebooks focused on ensemble methods*
 
@@ -114,8 +113,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Validation)
 *List of notebooks/templates focused on model validation. Essentially cross-validation.*
 
-### [NLP](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/NLP_Natural_Language_Processing)
-*List of notebooks focused on NLP*
 
 ### [Preprocessing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Preprocessing)
 *List of scripts and notebooks focused on preprocessing*
@@ -143,9 +140,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [TensorFlow](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/TensorFlow)
 *List of notebooks focused on TensorFlow*
-
-### [Timeseries](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/TimeSeries)
-*List of scripts and notebooks focused on timeseries*
 
 ### [Uncertainty Quantification](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Uncertainty_Quantification)
 *List of templates focused on uncertainty quantification applied to machine learning and deep learning*
