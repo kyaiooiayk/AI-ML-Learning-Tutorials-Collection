@@ -74,8 +74,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [ETL (Extract Transform Load) Pipelines](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ETL_Pipelines)
 *List of templates and notebooks focused on ETL pipelines*
 
-### [Explainable AI (xAI)](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/Explainable%20AI%20(xAI)%20)
-*List of notebooks focused on Explainable AI (xAI)*
 
 ### [Extrapolation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Extrapolation)
 *List of notebooks focused on how ML/DL methods behave on extrapolation tasks*
@@ -140,9 +138,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [TensorFlow](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/TensorFlow)
 *List of notebooks focused on TensorFlow*
-
-### [Uncertainty Quantification](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Uncertainty_Quantification)
-*List of templates focused on uncertainty quantification applied to machine learning and deep learning*
 
 ### [XGBoost](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/XGBoost)
 *List of templates focused on XGBoost*
