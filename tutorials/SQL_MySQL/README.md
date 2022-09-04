@@ -11,3 +11,4 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - https://www.kdnuggets.com/2021/10/data-science-sql-interview-questions.html
 - https://e2eml.school/sql_resources.html
 - https://realpython.com/pandas-groupby/
+- https://github.com/imrankhan17/apprentices-training/tree/master/session3

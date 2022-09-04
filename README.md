@@ -62,9 +62,6 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Decision Trees](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Decision_Trees)
 *List of notebooks and templates focused on decision trees*
 
-### [Dimensionality Reduction](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Dimensionality_Reductions)
-*List of templates focused on dimensionality reduction*
-
 ### [Donts](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Donts)
 *List of templates and notebooks focused on dos and don'ts in data science*
 
