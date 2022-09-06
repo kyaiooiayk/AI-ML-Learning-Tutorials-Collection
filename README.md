@@ -1,8 +1,8 @@
 # Data Science Application Templates
 
-The main goal of this repository is to provide a list of a wide variety of data science application -->>templates<<--. This helped, helpes and will help me, and hopefully others, to get off the ground in terms of: how to approach a new problem and how you use a specific framework's API.
+The main goal of this repository is to provide a list of a wide variety of data science applications -->>templates<<-- on as many topics as possible. This helped, helpes and will help me, and hopefully others, to get off the ground in terms of: how to approach a new problem and how you use a specific framework's API.
 
-## Some important stuff about this repository
+## Some important stuff about the listed repositories
 - Some ipynb and script were taken as they were (**you do not modify what is already good**)
 - I tried my best to reference everything that I've used so far (**my apologies if somethiing was not referenced**)
 - There are pictures that have not been properly referenced (**lack of time**)
@@ -18,7 +18,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 - One where all the markdown comments are rendered in coloured. These do not have a preceding underscore. 
 
 ## What is available?
-*Listed by alphabetical order. Total number of notebook templates (not including .py files): `1,131`*
+*Listed by alphabetical order.
 
 ### [AB Testing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/AB_Testing)
 *List of templates focused on AB testing*
@@ -71,6 +71,8 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [ETL (Extract Transform Load) Pipelines](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ETL_Pipelines)
 *List of templates and notebooks focused on ETL pipelines*
 
+### [Explainable AI - xAI ](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes)
+*List of templates and notebooks focused on Explainable AI - xAI*
 
 ### [Extrapolation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Extrapolation)
 *List of notebooks focused on how ML/DL methods behave on extrapolation tasks*
@@ -108,6 +110,8 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Validation)
 *List of notebooks/templates focused on model validation. Essentially cross-validation.*
 
+### [NLP - Natural Language Processing Notes](https://github.com/kyaiooiayk/NLP-Natural-Language-Processing-Notes)
+*List of notebooks/templates focused on model NLP.
 
 ### [Preprocessing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Preprocessing)
 *List of scripts and notebooks focused on preprocessing*
@@ -117,6 +121,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [Reading data in different formats](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Reading_data_in_different_formats)
 *List of scripts and notebooks focused on reading data provided in different formats*
+
+### [RL-Reinforcement Learning](https://github.com/kyaiooiayk/RL-Reinforcement-Learning-Notes) 
+*List of scripts and notebooks focused on reinforcement learning*
 
 ### [Recommender Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommender_System)
 *List of scripts and notebooks focused on recommender systems*
