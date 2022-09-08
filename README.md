@@ -111,7 +111,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 *List of notebooks/templates focused on model validation. Essentially cross-validation.*
 
 ### [NLP - Natural Language Processing Notes](https://github.com/kyaiooiayk/NLP-Natural-Language-Processing-Notes)
-*List of notebooks/templates focused on model NLP.
+*List of notebooks/templates focused on model NLP.*
 
 ### [Preprocessing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Preprocessing)
 *List of scripts and notebooks focused on preprocessing*
