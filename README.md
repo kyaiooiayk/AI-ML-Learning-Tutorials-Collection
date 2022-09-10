@@ -20,7 +20,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ## What is available?
 *Listed by alphabetical order.
 
-### [AB Testing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/AB_Testing)
+### [AB Testing](https://github.com/kyaiooiayk/AB-Testing-Notes)
 *List of templates focused on AB testing*
 
 ### [Adversarial](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Adversarial)
