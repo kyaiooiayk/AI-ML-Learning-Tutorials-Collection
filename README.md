@@ -1,8 +1,10 @@
 # Data Science Application Templates
 
 The main goal of this repository is to provide a list of a wide variety of data science applications -->>templates<<-- on as many topics as possible. This helped, helpes and will help me, and hopefully others, to get off the ground in terms of: how to approach a new problem and how you use a specific framework's API.
+***
 
 ## Some important stuff about the listed repositories
+
 - Some ipynb and script were taken as they were (**you do not modify what is already good**)
 - I tried my best to reference everything that I've used so far (**my apologies if somethiing was not referenced**)
 - There are pictures that have not been properly referenced (**lack of time**)
@@ -11,26 +13,25 @@ The main goal of this repository is to provide a list of a wide variety of data 
 - See the references in each file (**to know more**)
 - For the ipynb files, I suggest you download them locally and use your jupyter notebook as it renders the markdown cell much better than the Git viewer.
 - The ultimate goal of this is to refresh my memory about what I've learnt so far (**when I need to**)
+***
 
 ## A note on the notebook rendering
+
 Each notebook has two versions (all python scripts are unaffected by this convention):
 - One where all the markdown comments are rendered in black& white. These are flagged as `_notebook_name` and are placed in the folder named `GitHub_MD_rendering` where MD stands for MarkDown.
 - One where all the markdown comments are rendered in coloured. These do not have a preceding underscore. 
+***
 
 ## What is available?
-*Listed by alphabetical order.
 
 ### [AB Testing](https://github.com/kyaiooiayk/AB-Testing-Notes)
 *List of templates focused on AB testing*
 
-### [Adversarial](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Adversarial)
-*List of templates focused on Adversarial*
-
 ### [AI Basics](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/AI_Basics)
 *List of notebooks focused AI/ML/DL basics*
 
-### [Artifical Neural Networks](https://github.com/kyaiooiayk/AI-ML-Learning/tree/main/tutorials/ANNs_Artificlal_Neural_Networks)
-*List of templates focused on ANNs 9Artifical Neural Networks)*
+### [Artifical Neural Networks](https://github.com/kyaiooiayk/Neural-Networkds-NNs)
+*List of templates focused on ANNs Artifical Neural Networks)*
 
 ### [Audio & Sound](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Audio_and_Sound)
 *List of templates focused on audio & sound*
@@ -82,6 +83,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [Gaussian Models](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Gaussian_Model)
 *List of notebooks focused on Gaussian process, Gaussian Kernel, Gaussian Density function and Gaussian Estimation*
+
+### [Generative Adversarial NNs](https://github.com/kyaiooiayk/Generative-Adversarial-NNs-Notes)
+*List of templates focused on Generative Adversarial NNs*
 
 ### [Hyperparameters Tuning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Hyperparameters_Tuning)
 *List of notebooks/templates focused on hyperparameters (manual) tuning. For fully automated hyperparameters tuning please refer to Automated_Machine_Learning*
@@ -142,6 +146,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [TensorFlow](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/TensorFlow)
 *List of notebooks focused on TensorFlow*
+
+### [Time Series](https://github.com/kyaiooiayk/Time-Series-Notes)
+*List of notebooks focused on Time Series analysis*
 
 ### [XGBoost](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/XGBoost)
 *List of templates focused on XGBoost*
