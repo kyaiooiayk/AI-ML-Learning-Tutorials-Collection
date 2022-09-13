@@ -33,7 +33,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Artifical Neural Networks](https://github.com/kyaiooiayk/Neural-Networkds-NNs)
 *List of templates focused on ANNs Artifical Neural Networks)*
 
-### [Audio & Sound](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Audio_and_Sound)
+### [Audio & Sound](https://github.com/kyaiooiayk/Machine-Learning-for-Audio-and-Sound-Notes)
 *List of templates focused on audio & sound*
 
 ### [Autoencoder](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Autoencoder-Encoder-Decoder)
