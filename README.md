@@ -90,8 +90,8 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Hyperparameters Tuning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Hyperparameters_Tuning)
 *List of notebooks/templates focused on hyperparameters (manual) tuning. For fully automated hyperparameters tuning please refer to Automated_Machine_Learning*
 
-### [Keras](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Keras)
-*List of templates focused on KERAS deep learning framework*
+### [Keras](https://github.com/kyaiooiayk/Keras-Notes)
+*List of templates focused on Keras (TensorFlow2) deep learning framework*
 
 ### [Learn to Rank](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Learn_to_Rank)
 *List of notebooks focused on learn to rank algorithms: search engines etc ..*
@@ -122,6 +122,9 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 
 ### [PyTorch](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/PyTorch)
 *List of templates focused on PyTorch deep learning framework*
+
+### [PySpark](https://github.com/kyaiooiayk/pySpark-Notes)
+*List of templates focused on pySpark*
 
 ### [Reading data in different formats](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Reading_data_in_different_formats)
 *List of scripts and notebooks focused on reading data provided in different formats*
