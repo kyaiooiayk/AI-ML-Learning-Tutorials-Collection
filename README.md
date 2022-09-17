@@ -36,11 +36,11 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Audio & Sound](https://github.com/kyaiooiayk/Machine-Learning-for-Audio-and-Sound-Notes)
 *List of templates focused on audio & sound*
 
-### [Autoencoder](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Autoencoder-Encoder-Decoder)
-*List of templates focused on autoencoder*
+### [Autoencoder](https://github.com/kyaiooiayk/Autoencoders-Notes)
+*List of templates focused on autoencoders*
 
-### [Automated Machine Learning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Automated_Machine_learning)
-*List of templates focused on automated machine learning algorithms*
+### [Automated Machine Learning](https://github.com/kyaiooiayk/Automated-Machine-Learning-Notes)
+*List of templates focused on automated machine learning*
 
 ### [Big Data](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Big_Data)
 *List of templates for the processing of big data (out of memory). PySpark ....*
@@ -60,7 +60,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CyberSecurity)
 *List of notebooks templates focused on cybersecurity*
 
-### [Decision Trees](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Decision_Trees)
+### [Decision Trees](https://github.com/kyaiooiayk/Decision-Trees-Notes)
 *List of notebooks and templates focused on decision trees*
 
 ### [Donts](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Donts)
