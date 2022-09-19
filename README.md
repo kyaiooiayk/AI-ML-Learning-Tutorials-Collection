@@ -42,20 +42,20 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Automated Machine Learning](https://github.com/kyaiooiayk/Automated-Machine-Learning-Notes)
 *List of templates focused on automated machine learning*
 
-### [Big Data](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Big_Data)
-*List of templates for the processing of big data (out of memory). PySpark ....*
+### [Bayesian Theory](https://github.com/kyaiooiayk/Bayesian-Theory-Notes)
+*List of templates focused on Bayesian theory*
 
 ### [CatBoost](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CatBoost)
 *List of templates focused on CatBoost*
 
-### [Clustering](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Clustering)
+### [Clustering](https://github.com/kyaiooiayk/Clustering-Notes)
 *List of templates and notebooks focused on unsupervised clustering*
 
 ### [Classification](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Classification)
 *List of notebooks and templates focused on classification*
 
-### [Computer Vision](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CV_Computer_Vision)
-*List of notebooks and templates focused on Computer Vision*
+### [Computer Vision](https://github.com/kyaiooiayk/CV-Computer-Vision-Notes)
+*List of notebooks and templates focused on Computer Vision (CV)*
 
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CyberSecurity)
 *List of notebooks templates focused on cybersecurity*
@@ -63,25 +63,25 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Decision Trees](https://github.com/kyaiooiayk/Decision-Trees-Notes)
 *List of notebooks and templates focused on decision trees*
 
-### [Donts](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Donts)
-*List of templates and notebooks focused on dos and don'ts in data science*
+### [Donts](https://github.com/kyaiooiayk/Donts-in-Machine-Learning-Notes)
+*List of templates and notebooks focused on dos and don'ts in Machine Learning*
 
-### [Ensembles](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Ensembles)
+### [Ensembles](https://github.com/kyaiooiayk/Ensemble-Notes)
 *List of templates and notebooks focused on ensemble methods*
 
-### [ETL (Extract Transform Load) Pipelines](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/ETL_Pipelines)
+### [ETL (Extract Transform Load) Pipelines](https://github.com/kyaiooiayk/ETL-Pipelines-Notes)
 *List of templates and notebooks focused on ETL pipelines*
 
 ### [Explainable AI - xAI ](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes)
 *List of templates and notebooks focused on Explainable AI - xAI*
 
-### [Extrapolation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Extrapolation)
+### [Extrapolation](https://github.com/kyaiooiayk/Extrapolation-in-Machine-Learning-Notes)
 *List of notebooks focused on how ML/DL methods behave on extrapolation tasks*
 
-### [Feature Selection Importance and Engineering](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Feature_Selection_Importance_Engineering)
-*List of notebooks focused on feature selection, feature importance and feature engineering*
+### [Feature Selection | Correlation | Importance | Engineering](https://github.com/kyaiooiayk/Feature-Correlation-Selection-Importance-Engineering-Notes)
+*List of notebooks focused on feature selection, feature selection | correlation | importance | engineering*
 
-### [Gaussian Models](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Gaussian_Model)
+### [Gaussian Models](https://github.com/kyaiooiayk/Gaussian-Process-Notes)
 *List of notebooks focused on Gaussian process, Gaussian Kernel, Gaussian Density function and Gaussian Estimation*
 
 ### [Generative Adversarial NNs](https://github.com/kyaiooiayk/Generative-Adversarial-NNs-Notes)
@@ -93,13 +93,16 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Keras](https://github.com/kyaiooiayk/Keras-Notes)
 *List of templates focused on Keras (TensorFlow2) deep learning framework*
 
+### [Large scale Machine Learning](https://github.com/kyaiooiayk/Large-Scale-Machine-Learning-Notes)
+*List of templates for the processing of big data (out of memory)*
+
 ### [Learn to Rank](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Learn_to_Rank)
 *List of notebooks focused on learn to rank algorithms: search engines etc ..*
 
 ### [Linear Algebra and Calculus](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Linear_Algebra_and_Calculus)
 *List of notebooks focused on linear algebra and calculus*
 
-### [LightGBM](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/LightGBM)
+### [LightGBM](https://github.com/kyaiooiayk/LightGBM-Notes)
 *List of templates focused on LightGBM*
 
 ### [Manifold learning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Manifold_Learning)
