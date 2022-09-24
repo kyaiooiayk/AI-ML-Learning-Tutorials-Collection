@@ -1,8 +1,0 @@
-DATASETS
-*.ipynb_checkpoints
-**/.DS_Store
-**/*.pyc
-**/*.zip
-**/__pycache__
-**/*.h5
-**/model.png
