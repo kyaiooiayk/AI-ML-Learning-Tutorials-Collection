@@ -60,11 +60,17 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Cybersecurity](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CyberSecurity)
 *List of notebooks templates focused on cybersecurity*
 
+### [Data Formats](https://github.com/kyaiooiayk/Data-Format-Notes)
+*List of notebooks and templates focused on how to read data in different formats*
+
 ### [Decision Trees](https://github.com/kyaiooiayk/Decision-Trees-Notes)
 *List of notebooks and templates focused on decision trees*
 
 ### [Donts](https://github.com/kyaiooiayk/Donts-in-Machine-Learning-Notes)
 *List of templates and notebooks focused on dos and don'ts in Machine Learning*
+
+### [EDA & Data Cleaning](https://github.com/kyaiooiayk/EDA-and-Data-Cleaning)
+*List of scripts and notebooks focused on EDA and Data Cleaning*
 
 ### [Ensembles](https://github.com/kyaiooiayk/Ensemble-Notes)
 *List of templates and notebooks focused on ensemble methods*
@@ -105,25 +111,16 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [LightGBM](https://github.com/kyaiooiayk/LightGBM-Notes)
 *List of templates focused on LightGBM*
 
-### [Manifold learning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Manifold_Learning)
+### [Manifold learning](https://github.com/kyaiooiayk/Manifold-Learning-Notes)
 *List of notebooks focused on manifold learning*
 
-### [Methods Selection](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Methods_Selection)
-*List of notebooks/templates focused on methods. Essentially how you pick a method over another. This is NOT models selection, where models are here understood as different versions of the same method. For models selection see [Hyperparameters Tuning](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Hyperparameters_Tuning) and [Feature Selection Importance and Engineering](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Feature_Selection_Importance_Engineering)*
-
-### [Models Diagnostic](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Diagnostic)
-*List of notebooks/templated focused on model diagnostic. One example of this is learning curves.*
-
-### [Models Validation](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Models_Validation)
-*List of notebooks/templates focused on model validation. Essentially cross-validation.*
+### [Model Selection | Hyperparameter  Tuning | Validation | Diagnostic | Pipeline](https://github.com/kyaiooiayk/Model-Selection-Hyperparameter-Tuning-Validation-Diagnostic-Pipeline-Notes)
+*List of notebooks/templates focused on model selection, hyperparameter tuning, validation, diagnostic and pipeline.*
 
 ### [NLP - Natural Language Processing Notes](https://github.com/kyaiooiayk/NLP-Natural-Language-Processing-Notes)
 *List of notebooks/templates focused on model NLP.*
 
-### [Preprocessing](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Preprocessing)
-*List of scripts and notebooks focused on preprocessing*
-
-### [PyTorch](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/PyTorch)
+### [PyTorch](https://github.com/kyaiooiayk/PyTorch-Notes)
 *List of templates focused on PyTorch deep learning framework*
 
 ### [PySpark](https://github.com/kyaiooiayk/pySpark-Notes)
@@ -135,26 +132,23 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [RL-Reinforcement Learning](https://github.com/kyaiooiayk/RL-Reinforcement-Learning-Notes) 
 *List of scripts and notebooks focused on reinforcement learning*
 
-### [Recommender Systems](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Recommender_System)
+### [Recommender Systems](https://github.com/kyaiooiayk/Recommender-System-Notes)
 *List of scripts and notebooks focused on recommender systems*
 
-### [Regression](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/Regression)
+### [Regression](https://github.com/kyaiooiayk/Regression-Notes)
 *List of notebooks focused on regression*
 
-### [RNNs and LSTMs](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/RNNs_LSTMs)
-*List of notebooks focused on RNNs and LSTMs*
+### [Scikit-learn](https://github.com/kyaiooiayk/Scikit-Learn-Notes)
+*List of scripts and notebooks focused on Scikit-learn API*
 
-### [Scikit-learn](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/scikit-learn)
-*List of scripts and notebooks focused on Scikit-learn*
+### [SQL](https://github.com/kyaiooiayk/SQL-Notes)
+*List of notebooks focused on SQL*
 
-### [SQL and MySQL](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/SQL_and_MySQL)
-*List of notebooks focused on SQL and MySQL*
-
-### [TensorFlow](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/TensorFlow)
+### [TensorFlow](https://github.com/kyaiooiayk/TensorFlow-TF-Notes)
 *List of notebooks focused on TensorFlow*
 
 ### [Time Series](https://github.com/kyaiooiayk/Time-Series-Notes)
 *List of notebooks focused on Time Series analysis*
 
-### [XGBoost](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/XGBoost)
+### [XGBoost](https://github.com/kyaiooiayk/XGBoost-notes)
 *List of templates focused on XGBoost*
