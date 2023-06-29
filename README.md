@@ -1,4 +1,4 @@
-# Data Science Application Templates
+# Data Science/Machine Learning Templates
 
 The main goal of this repository is to provide a list of a wide variety of data science applications -->>templates<<-- on as many topics as possible. This helped, helpes and will help me, and hopefully others, to get off the ground in terms of: how to approach a new problem and how you use a specific framework's API.
 ***
