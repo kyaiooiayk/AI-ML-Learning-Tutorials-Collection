@@ -45,7 +45,7 @@ Each notebook has two versions (all python scripts are unaffected by this conven
 ### [Bayesian Theory](https://github.com/kyaiooiayk/Bayesian-Theory-Notes)
 *List of templates focused on Bayesian theory*
 
-### [CatBoost](https://github.com/kyaiooiayk/AI_learning/tree/main/tutorials/CatBoost)
+### [CatBoost](https://github.com/kyaiooiayk/CatBoost-Notes)
 *List of templates focused on CatBoost*
 
 ### [Clustering](https://github.com/kyaiooiayk/Clustering-Notes)
